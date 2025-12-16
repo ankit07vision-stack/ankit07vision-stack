@@ -146,28 +146,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 
 ---
 
-## 🎯 Professional Objectives
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Career Goals] --> B[Software Engineering Role]
-    A --> C[Open Source Contribution]
-    A --> D[Cloud Architecture Mastery]
-    A --> E[System Design Expertise]
-    B --> F[Full Stack Development]
-    C --> G[Community Impact]
-    D --> H[Scalable Solutions]
-    E --> I[High-Performance Systems]
-    
-    style A fill:#00D9FF,stroke:#0099cc,stroke-width:2px,color:#000
-    style B fill:#FF6B6B,stroke:#cc5555,stroke-width:2px,color:#fff
-    style C fill:#4ECDC4,stroke:#3da8a0,stroke-width:2px,color:#fff
-    style D fill:#FFE66D,stroke:#ccb857,stroke-width:2px,color:#000
-    style E fill:#A8E6CF,stroke:#86b8a3,stroke-width:2px,color:#000
-```
-
 </div>
 
 **Current Focus Areas:**

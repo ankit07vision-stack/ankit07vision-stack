@@ -150,15 +150,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 
 <div align="center">
 
-### ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit07vision-stack&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
----
 
 ## 🤝 Let's Connect
 

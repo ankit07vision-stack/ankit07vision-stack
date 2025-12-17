@@ -127,7 +127,28 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 - 💪 **Core Strengths:** Dynamic Programming, Graph Algorithms, Binary Search, Sliding Window, Backtracking
 - 📈 Consistent problem-solving practice with focus on optimal solutions
 
+</div>
+
 ---
+
+<table>
+<tr>
+<td width="30%" valign="top">
+
+### 💻 GitHub Language Stats
+
+</td>
+<td width="70%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit07vision-stack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 ### ⚡ Activity Graph
 
@@ -153,6 +174,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 <img src="https://komarev.com/ghpvc/?username=ankit07vision-stack&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-**⭐ If you find my work valuable, consider starring the repositories!**
+**✨ "Building the future, one commit at a time" ✨**
 
 </div>

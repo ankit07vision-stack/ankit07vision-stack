@@ -19,10 +19,7 @@
 
 I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at Chandigarh University, with a strong foundation in the **MERN stack** and proven expertise in building production-ready applications. My experience spans developing complete end-to-end solutions, from architecting scalable backends to crafting intuitive user interfaces.
 
-**What I Bring:**
-- 🏗️ **End-to-End Development:** Proficient in designing, developing, and deploying full-stack applications with modern architectures
-- 🧩 **Problem-Solving Excellence:** Solved 550+ LeetCode problems with strong command over Data Structures, Algorithms, and System Design
-
+📍 Based in Bengaluru, India
 
 ## 🛠️ Tech Stack
 
@@ -136,11 +133,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 
 </div>
 
-**Current Focus Areas:**
-- 🔍 Actively pursuing **software engineering opportunities** where I can contribute to building impactful products
-- 🌱 Advancing expertise in **distributed systems**, **microservices architecture**, and **cloud-native development*
-
----
 
 ### 📧 ankit07vision@gmail.com
 

@@ -73,10 +73,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 🔹 Tech Stack: Next.js | Node.js | Express.js | MongoDB | Redis | Stripe | JWT
 ```
 
-**Key Implementations:**
-- 🔐 Multi-tier authentication system with JWT and role-based access control (RBAC)
-- 💳 Complete payment processing pipeline using Stripe API with webhook integration
-
 
 **🔗 [Live Demo](https://campusrentals-m3im.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/vehicle-booking)**
 
@@ -89,11 +85,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 🔹 Tech Stack: React.js | Node.js | Express.js | MongoDB | Stripe | JWT
 ```
 
-**Key Implementations:**
-- 📝 Dynamic test generation engine with multiple question formats
-- 👨‍💼 Feature-rich admin dashboard for content and user management
-
-
 **🔗 [Live Demo](https://testify-coral.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/testify)**
 
 ---
@@ -105,9 +96,6 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 🔹 Tech Stack: React.js | Node.js | Express.js | MongoDB | Remove.bg API
 ```
 
-**Key Implementations:**
-- 🖱️ Intuitive drag-and-drop interface with real-time preview
-- ⚡ Optimized API integration for rapid image processing
 
 **🔗 [Live Demo](https://bg-remover-3t5s.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/bg-remover)**
 

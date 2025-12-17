@@ -63,38 +63,54 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 
 ## 🚀 Featured Projects
 
-### 🚗 [Vehicle Listing & Booking Platform](https://campusrentals-m3im.vercel.app/)
-> A comprehensive full-stack solution for vehicle rental management with enterprise-grade features
+<table>
+<tr>
+<td width="50%">
 
-```
-🔹 Tech Stack: Next.js | Node.js | Express.js | MongoDB | Redis | Stripe | JWT
-```
+### 🚗 Vehicle Listing & Booking Platform
+> Full-stack vehicle rental management with enterprise features
 
+**Tech:** Next.js • Node.js • Express.js • MongoDB • Redis • Stripe • JWT
+
+🎬 **Live:** Enterprise-grade booking system with real-time availability
 
 **🔗 [Live Demo](https://campusrentals-m3im.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/vehicle-booking)**
 
----
+</td>
+<td width="50%">
 
-### 🎓 [Testify – EdTech Platform](https://testify-coral.vercel.app/)
-> Scalable online assessment platform with automated evaluation and learning management
+### 🎓 Testify – EdTech Platform
+> Scalable online assessment platform with automated evaluation
 
-```
-🔹 Tech Stack: React.js | Node.js | Express.js | MongoDB | Stripe | JWT
-```
+**Tech:** React.js • Node.js • Express.js • MongoDB • Stripe • JWT
+
+📚 **Live:** Interactive learning management with instant grading
 
 **🔗 [Live Demo](https://testify-coral.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/testify)**
 
----
+</td>
+</tr>
 
-### 🖼️ [BG Remover](https://bg-remover-3t5s.vercel.app/)
-> Efficient image processing application leveraging AI-powered background removal
+<tr>
+<td width="50%">
 
-```
-🔹 Tech Stack: React.js | Node.js | Express.js | MongoDB | Remove.bg API
-```
+### 🖼️ BG Remover
+> AI-powered image processing application
 
+**Tech:** React.js • Node.js • Express.js • MongoDB • Remove.bg API
+
+✨ **Live:** One-click background removal with AI precision
 
 **🔗 [Live Demo](https://bg-remover-3t5s.vercel.app/) | [Source Code](https://github.com/ankit07vision-stack/bg-remover)**
+
+</td>
+<td width="50%">
+
+<!-- Empty cell for balanced layout -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -110,54 +126,33 @@ I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at C
 - ✅ **550+ Problems Solved** across multiple difficulty levels
 - 💪 **Core Strengths:** Dynamic Programming, Graph Algorithms, Binary Search, Sliding Window, Backtracking
 - 📈 Consistent problem-solving practice with focus on optimal solutions
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit07vision-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit07vision-stack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit07vision-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit07vision-stack&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-</div>
 
 ---
-
-</div>
-
-
-### 📧 ankit07vision@gmail.com
-
-### 🌐 Available for Full-time & Internship Opportunities
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ankit07vision-stack&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-
 
 ### ⚡ Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit07vision-stack&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
+</div>
+
 ---
 
-**⭐ If you find my work valuable, consider starring the repositories!**
+---
 
-### 🤝 Let's build something amazing together!
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+
+* 📧 Email: **ankit07vision@gmail.com**
+* 💼 LinkedIn: **ankit-kumar-aa585a231**
+* 🌐 Portfolio: **funny-cactus-d591c6.netlify.app**
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ankit07vision-stack&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+**⭐ If you find my work valuable, consider starring the repositories!**
 
 </div>

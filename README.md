@@ -165,6 +165,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 <img src="https://komarev.com/ghpvc/?username=ankit07vision-stack&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-**✨ "Building the future, one commit at a time" ✨**
+** "Building the future, one commit at a time" ✨**
 
 </div>

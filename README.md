@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ankit Kumar!
 
-### 🚀 Full Stack Developer | Problem Solver | MERN Enthusiast
+### 🚀 Full Stack Developer | Problem Solver | MERN Enthusiasts
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;550%2B+LeetCode+Problems+Solved;Building+Production-Ready+Applications" alt="Typing SVG" />
 

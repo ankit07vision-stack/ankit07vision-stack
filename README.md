@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ankit Kumar!
 
-### 🚀 Full Stack Developer | Problem Solver | MERN Enthusiast
+### 🚀 Full Stack Developer | Problem Solver | MERN Enthusiasts
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;550%2B+LeetCode+Problems+Solved;Building+Production-Ready+Applications" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at Chandigarh University, with a strong foundation in the **MERN stack** and proven expertise in building production-ready applications. My experience spans developing complete end-to-end solutions, from architecting scalable backend to crafting intuitive user interfaces(UI).
+I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at Chandigarh University, with a strong foundation in the **MERN stack** and proven expertise in building production-ready applications. My experience spans developing complete end-to-end solutions, from architecting scalable backends to crafting intuitive user interfaces(UI).
 
 📍 Based in Bengaluru, India
 

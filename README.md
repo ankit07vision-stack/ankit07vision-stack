@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at Chandigarh University, with a strong foundation in the **MERN stack** and proven expertise in building production-ready applications. My experience spans developing complete end-to-end solutions, from architecting scalable backends to crafting intuitive user interfaces(UI).
+I am a dedicated **Full Stack Developer** pursuing B.E. in Computer Science at Chandigarh University, with a strong foundation in the **MERN stack** and proven expertise in building production-ready applications. My experience spans developing complete end-to-end solutions, from architecting scalable backends to crafting intuitive user interface(UI).
 
 📍 Based in Bengaluru, India
 
